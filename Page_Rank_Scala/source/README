@@ -1,0 +1,11 @@
+*******************************************************************
+                              README
+*******************************************************************
+
+MAKEFILE
+*******************************************************************
+set "inputpath" to the directory containing the .bz2 files in makefile
+
+set "outputpath" to the directory where you want out put to be saved in makefile. Make sure you name the folder to be output
+
+
